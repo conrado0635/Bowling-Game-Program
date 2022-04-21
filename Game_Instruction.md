@@ -1,15 +1,6 @@
  
 INSTRUCTIONS
-Scenario
-You work for a software development company that specialises in educational software for high school age students. The project is developing a 10pin bowling game prototype that can be used to teach a variety of subjects. The source code has been developed and your role is to test this prototype using the provided source code.
-Your course tutor will provide you with code for the back end of the program. There is not yet any GUI, and no system for receiving input data from files or a database. Once the backend has been tested, these parts will be developed. The bowling game source code file shows example usage of the system. Activities for this project assessment are:
-•	Create a Test Plan
-•	Design a suite of unit tests
-•	Debug and refactor an application
-•	Create Pythondoc and associated documentation
-•	Use git
-•	Report findings
- 
+
 Business Rules
 How the program works is largely defined by the business rules developed with the client at the beginning of the project.
 Rules of Play
